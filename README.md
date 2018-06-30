@@ -1,8 +1,52 @@
 # ImageTranslation
 pytorch, pix2pix, CycleGAN, DiscoGAN, BicycleGAN, UNIT, MUNIT
 
----
+- ![Pix2Pix](https://github.com/suhoy901/ImageTranslation/blob/master/Pix2Pix/1.%20Pix2Pix_train.ipynb)
+
+
 ## 1. Pix2Pix
+- facades
+
+<table>
+  <tr>
+    <td style="text-align: middle;">Input</td>
+    <td style="text-align: middle;">Generated</td>
+    <td style="text-align: middle;">Target</td>
+  </tr>
+  <tr>
+    <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/Pix2Pix/dataset/facades/test/a/cmp_b0206.jpg"/>
+    </td>
+    <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/Pix2Pix/result/facades/cmp_b0206.jpg"/>
+    </td>
+    <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/Pix2Pix/dataset/facades/test/b/cmp_b0206.jpg"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/Pix2Pix/dataset/facades/test/a/cmp_b0239.jpg"/>
+    </td>
+    <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/Pix2Pix/result/facades/cmp_b0239.jpg"/>
+    </td>
+    <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/Pix2Pix/dataset/facades/test/b/cmp_b0239.jpg"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/Pix2Pix/dataset/facades/test/a/cmp_b0360.jpg"/>
+    </td>
+    <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/Pix2Pix/result/facades/cmp_b0360.jpg"/>
+    </td>
+    <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/Pix2Pix/dataset/facades/test/b/cmp_b0360.jpg"/>
+    </td>
+  </tr>
+</table>
 
 ## 2. CycleGAN
 
