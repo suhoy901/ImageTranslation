@@ -2,7 +2,7 @@
 pytorch, pix2pix, CycleGAN, DiscoGAN, BicycleGAN, UNIT, MUNIT
 
 - ![Pix2Pix](https://github.com/suhoy901/ImageTranslation/blob/master/Pix2Pix/1.%20Pix2Pix_train.ipynb)
-
+- ![CycleGAN](https://github.com/suhoy901/ImageTranslation/blob/master/CycleGAN/2.%20CycleGAN_train.ipynb)
 
 ## 1. Pix2Pix
 - facades
@@ -49,6 +49,53 @@ pytorch, pix2pix, CycleGAN, DiscoGAN, BicycleGAN, UNIT, MUNIT
 </table>
 
 ## 2. CycleGAN
+- horse2zebra
+
+<table>
+  <tr>
+    <td style="text-align: middle;">Loss Function</td>
+    <td style="text-align: middle;">Generated</td>
+  </tr>
+  <tr>
+    <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/CycleGAN/horse2zebra_results/Loss_values_epoch_200.png"/>
+    </td>
+    <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/CycleGAN/horse2zebra_results/horse2zebra_CycleGAN_epochs_200.gif"/>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td style="text-align: middle;">AtoB</td>
+    <td style="text-align: middle;">BtoA</td>
+  </tr>
+  <tr>
+    <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/CycleGAN/horse2zebra_test_results/AtoB/Test_result_118.png"/>
+    </td>
+    <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/CycleGAN/horse2zebra_test_results/BtoA/Test_result_118.png"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/CycleGAN/horse2zebra_test_results/AtoB/Test_result_62.png"/>
+    </td>
+    <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/CycleGAN/horse2zebra_test_results/BtoA/Test_result_62.png"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/CycleGAN/horse2zebra_test_results/AtoB/Test_result_98.png"/>
+    </td>
+    <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/CycleGAN/horse2zebra_test_results/BtoA/Test_result_98.png"/>
+    </td>
+  </tr>
+</table>
 
 ## 3. DiscoGAN
 
