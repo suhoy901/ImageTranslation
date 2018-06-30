@@ -1,5 +1,5 @@
 # ImageTranslation
-pytorch, pix2pix, CycleGAN, DiscoGAN, UNIT, MUNIT
+pytorch, pix2pix, CycleGAN, DiscoGAN, BicycleGAN, UNIT, MUNIT
 
 ---
 ## 1. Pix2Pix
@@ -8,6 +8,8 @@ pytorch, pix2pix, CycleGAN, DiscoGAN, UNIT, MUNIT
 
 ## 3. DiscoGAN
 
-## 4. UNIT
+## 4. BicycleGAN
 
-## 5. MUNIT
+## 5. UNIT
+
+## 6. MUNIT
