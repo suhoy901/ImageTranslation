@@ -54,7 +54,7 @@ pytorch, pix2pix, CycleGAN, DiscoGAN, BicycleGAN, UNIT, MUNIT
 <table>
   <tr>
     <td style="text-align: middle;">Loss Function</td>
-    <td style="text-align: middle;">Generated</td>
+    <td style="text-align: middle;">Generated<br>(Input, Generated, Reconstructed)</td>
   </tr>
   <tr>
     <td>
@@ -68,8 +68,8 @@ pytorch, pix2pix, CycleGAN, DiscoGAN, BicycleGAN, UNIT, MUNIT
 
 <table>
   <tr>
-    <td style="text-align: middle;">AtoB</td>
-    <td style="text-align: middle;">BtoA</td>
+    <td style="text-align: middle;">AtoB<br>(Input, Generated, Reconstructed)</td>
+    <td style="text-align: middle;">BtoA<br>(Input, Generated, Reconstructed)</td>
   </tr>
   <tr>
     <td>
