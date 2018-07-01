@@ -1,8 +1,9 @@
 # ImageTranslation
 pytorch, pix2pix, CycleGAN, DiscoGAN, BicycleGAN, UNIT, MUNIT
 
-- ![Pix2Pix](https://github.com/suhoy901/ImageTranslation/blob/master/Pix2Pix/1.%20Pix2Pix_train.ipynb)
-- ![CycleGAN](https://github.com/suhoy901/ImageTranslation/blob/master/CycleGAN/2.%20CycleGAN_train.ipynb)
+- [Pix2Pix](https://github.com/suhoy901/ImageTranslation/blob/master/Pix2Pix/1.%20Pix2Pix_train.ipynb)
+- [CycleGAN](https://github.com/suhoy901/ImageTranslation/blob/master/CycleGAN/2.%20CycleGAN_train.ipynb)
+- [DiscoGAN](https://github.com/suhoy901/ImageTranslation/blob/master/DiscoGAN/DiscoGAN.ipynb)
 
 ## 1. Pix2Pix
 - facades
@@ -98,6 +99,7 @@ pytorch, pix2pix, CycleGAN, DiscoGAN, BicycleGAN, UNIT, MUNIT
 </table>
 
 ## 3. DiscoGAN
+- edge2shoes
 
 <table>
   <tr>
