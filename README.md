@@ -99,6 +99,34 @@ pytorch, pix2pix, CycleGAN, DiscoGAN, BicycleGAN, UNIT, MUNIT
 
 ## 3. DiscoGAN
 
+<table>
+  <tr>
+    <td style="text-align: middle;">real_A, fake_B<br>real_B, fake_A
+</td>
+  </tr>
+  <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/DiscoGAN/results/samples_animation.gif"/>
+    </td>
+</table>
+<table>
+  <tr>
+    <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/DiscoGAN/results/25.png"/>
+    </td>
+    <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/DiscoGAN/results/51.png"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/DiscoGAN/results/74.png"/>
+    </td>
+    <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/DiscoGAN/results/97.png"/>
+    </td>
+  </tr>
+</table>
+
 ## 4. BicycleGAN
 
 ## 5. UNIT
