@@ -99,7 +99,7 @@ pytorch, pix2pix, CycleGAN, DiscoGAN, BicycleGAN, UNIT, MUNIT
 </table>
 
 ## 3. DiscoGAN
-- edge2shoes
+- edges2shoes
 
 <table>
   <tr>
@@ -130,6 +130,8 @@ pytorch, pix2pix, CycleGAN, DiscoGAN, BicycleGAN, UNIT, MUNIT
 </table>
 
 ## 4. BicycleGAN
+- edges2shoes
+- edges2handbags
 
 ## 5. UNIT
 
