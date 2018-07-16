@@ -4,6 +4,7 @@ pytorch, pix2pix, CycleGAN, DiscoGAN, BicycleGAN, UNIT, MUNIT
 - [Pix2Pix](https://github.com/suhoy901/ImageTranslation/blob/master/Pix2Pix/1.%20Pix2Pix_train.ipynb)
 - [CycleGAN](https://github.com/suhoy901/ImageTranslation/blob/master/CycleGAN/2.%20CycleGAN_train.ipynb)
 - [DiscoGAN](https://github.com/suhoy901/ImageTranslation/blob/master/DiscoGAN/DiscoGAN.ipynb)
+- [BicycleGAN_edges2shoes](https://github.com/suhoy901/ImageTranslation/blob/master/BicycleGAN/2.%20BicycleGAN_edges2shoes_train.ipynb)
 
 ## 1. Pix2Pix
 - facades
@@ -111,6 +112,10 @@ pytorch, pix2pix, CycleGAN, DiscoGAN, BicycleGAN, UNIT, MUNIT
     </td>
 </table>
 <table>
+   <tr>
+    <td style="text-align: middle;">AtoB<br>(Input, Generated, Reconstructed)</td>
+    <td style="text-align: middle;">BtoA<br>(Input, Generated, Reconstructed)</td>
+  </tr>
   <tr>
     <td>
      <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/DiscoGAN/results/25.png"/>
@@ -132,6 +137,43 @@ pytorch, pix2pix, CycleGAN, DiscoGAN, BicycleGAN, UNIT, MUNIT
 ## 4. BicycleGAN
 - edges2shoes
 - edges2handbags
+
+
+<table>
+  <tr>
+    <td style="text-align: middle;">epoch</td>
+    <td style="text-align: middle;">edges2shoes</td>
+    <td style="text-align: middle;">edges2handbags</td>
+  </tr>
+  <tr>
+    <td>epoch 15</td>
+    <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/BicycleGAN/result/edges2shoes_gif/BicycleGAN_edges2shoes_epochs_10.gif"/>
+    </td>
+    <td>
+     <img src=""/>
+    </td>
+  </tr>
+  <tr>
+    <td>epoch 30</td>
+    <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/BicycleGAN/result/edges2shoes_gif/BicycleGAN_edges2shoes_epochs_30.gif"/>
+    </td>
+    <td>
+     <img src=""/>
+    </td>
+  </tr>
+  <tr>
+    <td>epoch 45</td>
+    <td>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/BicycleGAN/result/edges2shoes_gif/BicycleGAN_edges2shoes_epochs_45.gif"/>
+    </td>
+    <td>
+     <img src=""/>
+    </td>
+  </tr>
+</table>
+
 
 ## 5. UNIT
 
