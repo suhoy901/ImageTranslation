@@ -5,6 +5,7 @@ pytorch, pix2pix, CycleGAN, DiscoGAN, BicycleGAN, UNIT, MUNIT
 - [CycleGAN](https://github.com/suhoy901/ImageTranslation/blob/master/CycleGAN/2.%20CycleGAN_train.ipynb)
 - [DiscoGAN](https://github.com/suhoy901/ImageTranslation/blob/master/DiscoGAN/DiscoGAN.ipynb)
 - [BicycleGAN_edges2shoes](https://github.com/suhoy901/ImageTranslation/blob/master/BicycleGAN/2.%20BicycleGAN_edges2shoes_train.ipynb)
+- [BicycleGAN_edges2handbags](https://github.com/suhoy901/ImageTranslation/blob/master/BicycleGAN/2.%20BicycleGAN_edges2handbags_train.ipynb)
 
 ## 1. Pix2Pix
 - facades
@@ -142,34 +143,24 @@ pytorch, pix2pix, CycleGAN, DiscoGAN, BicycleGAN, UNIT, MUNIT
 <table>
   <tr>
     <td style="text-align: middle;">epoch</td>
-    <td style="text-align: middle;">edges2shoes</td>
     <td style="text-align: middle;">edges2handbags</td>
   </tr>
   <tr>
-    <td>epoch 15</td>
+    <td>epoch 10</td>
     <td>
-     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/BicycleGAN/result/edges2shoes_gif/BicycleGAN_edges2shoes_epochs_10.gif"/>
-    </td>
-    <td>
-     <img src=""/>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/BicycleGAN/result/edges2handbags_gif/BicycleGAN_edges2handbags_epochs_10.gif"/>
     </td>
   </tr>
   <tr>
     <td>epoch 30</td>
     <td>
-     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/BicycleGAN/result/edges2shoes_gif/BicycleGAN_edges2shoes_epochs_30.gif"/>
-    </td>
-    <td>
-     <img src=""/>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/BicycleGAN/result/edges2handbags_gif/BicycleGAN_edges2handbags_epochs_30.gif"/>
     </td>
   </tr>
   <tr>
     <td>epoch 45</td>
     <td>
-     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/BicycleGAN/result/edges2shoes_gif/BicycleGAN_edges2shoes_epochs_45.gif"/>
-    </td>
-    <td>
-     <img src=""/>
+     <img src="https://raw.githubusercontent.com/suhoy901/ImageTranslation/master/BicycleGAN/result/edges2handbags_gif/BicycleGAN_edges2handbags_epochs_45.gif"/>
     </td>
   </tr>
 </table>
