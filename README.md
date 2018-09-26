@@ -1,5 +1,5 @@
 # ImageTranslation
-pytorch, pix2pix, CycleGAN, DiscoGAN, BicycleGAN, UNIT, MUNIT
+pytorch, pix2pix, CycleGAN, DiscoGAN, BicycleGAN, UNIT, MUNIT, pix2pixHD, vid2vid
 
 - [Pix2Pix](https://github.com/suhoy901/ImageTranslation/blob/master/Pix2Pix/1.%20Pix2Pix_train.ipynb)
 - [CycleGAN](https://github.com/suhoy901/ImageTranslation/blob/master/CycleGAN/2.%20CycleGAN_train.ipynb)
@@ -169,3 +169,7 @@ pytorch, pix2pix, CycleGAN, DiscoGAN, BicycleGAN, UNIT, MUNIT
 ## 5. UNIT
 
 ## 6. MUNIT
+
+## 7. Pix2PixHD
+
+## 8. vid2vid
